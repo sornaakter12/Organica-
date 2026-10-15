@@ -1,0 +1,6 @@
+{
+  "name": "Organica - Pure & Healthy Organic Food Store",
+  "description": "Premium organic food e-commerce experience featuring farm-fresh vegetables, fruits, honey, and natural foods with instant cart and local delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
